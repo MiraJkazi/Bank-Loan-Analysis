@@ -1,6 +1,6 @@
 # 🏦 Bank Loan Analysis Dashboard
 
-![Dashboard Preview]() <img width="1496" height="725" alt="Screenshot 2025-12-07 212231" src="https://github.com/user-attachments/assets/b6c155ae-1a7f-4b6d-a983-515c2975159b" />
+<img width="1496" height="725" alt="Screenshot 2025-12-07 212231" src="https://github.com/user-attachments/assets/b6c155ae-1a7f-4b6d-a983-515c2975159b" />
 
 
 ## 📊 Project Overview
@@ -121,14 +121,14 @@ open dashboard/Bank_Loan_Dashboard.twbx
 ## 📸 Dashboard Screenshots
 
 ### Summary Dashboard
-![Summary View](<img width="1496" height="725" alt="Screenshot 2025-12-07 212231" src="https://github.com/user-attachments/assets/cfd70056-01b5-47cd-91be-996cff0a58bf" />)
+<img width="1496" height="725" alt="Screenshot 2025-12-07 212231" src="https://github.com/user-attachments/assets/cfd70056-01b5-47cd-91be-996cff0a58bf" />
 
 
 ### Overview Dashboard
-![Overview View](<img width="1174" height="667" alt="Screenshot 2025-12-07 212317" src="https://github.com/user-attachments/assets/3c7d0e2b-7166-4a35-bce2-009d20264b81" />)
+<img width="1174" height="667" alt="Screenshot 2025-12-07 212317" src="https://github.com/user-attachments/assets/3c7d0e2b-7166-4a35-bce2-009d20264b81" />
 
 ### Details Dashboard
-![Details View](<img width="1235" height="680" alt="Screenshot 2025-12-07 212351" src="https://github.com/user-attachments/assets/4bfe0079-379f-40d1-8676-043a8fdacb8e" />)
+<img width="1235" height="680" alt="Screenshot 2025-12-07 212351" src="https://github.com/user-attachments/assets/4bfe0079-379f-40d1-8676-043a8fdacb8e" />
 
 
 ## 💼 Business Impact
