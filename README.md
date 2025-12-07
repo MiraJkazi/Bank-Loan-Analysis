@@ -1,6 +1,6 @@
 # 🏦 Bank Loan Analysis Dashboard
 
-![Dashboard Preview](<img width="1496" height="725" alt="Screenshot 2025-12-07 212231" src="https://github.com/user-attachments/assets/b6c155ae-1a7f-4b6d-a983-515c2975159b" />)
+![Dashboard Preview]() <img width="1496" height="725" alt="Screenshot 2025-12-07 212231" src="https://github.com/user-attachments/assets/b6c155ae-1a7f-4b6d-a983-515c2975159b" />
 
 
 ## 📊 Project Overview
