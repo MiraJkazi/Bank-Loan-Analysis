@@ -47,8 +47,8 @@ A three-tier interactive dashboard system providing:
 
 ## 🛠️ Tools & Technologies
 
-- **Visualization Tool:** Power BI / Tableau / Excel (specify yours)
-- **Data Processing:** SQL / Python / Excel
+- **Visualization Tool:** Power BI
+- **Data Processing:** MySQL / Excel
 - **Data Source:** Bank loan dataset (CSV/Database)
 
 ## 📁 Project Structure
